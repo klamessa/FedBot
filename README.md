@@ -2,7 +2,7 @@
 
 **Info:**
 
-_Factory Efficiency Driver Bot_, or FedBot, is a project dedicated to streamlining operations in distribution companies like Amazon, FedEx, and UPS. FedBot leverages algorithms to optimize and automate the mechanical aspects of factory management, which reduces the workload on employees and enhancing overall productivity. This project is built ground up with the perspective of * the single package* and how to minimaly transport it to the hands of the consumer with minimal effort.
+_Factory Efficiency Driver Bot_, or FedBot, is a project dedicated to streamlining operations in distribution companies like Amazon, FedEx, and UPS. FedBot leverages algorithms to optimize and automate the mechanical aspects of factory management, which reduces the workload on employees and enhances overall productivity. This project is built ground up with the perspective of * The Single Package* and the specific part of its journey from a warehouse to a shipping truck.
 
 **Key Features:**
 
