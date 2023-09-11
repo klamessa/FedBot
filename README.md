@@ -7,7 +7,11 @@ Factory Efficiency Driver Bot, or FedBot, is a project dedicated to streamline o
 **Key Features:**
 
 **- Order Optimization:**  FedBot intelligently manages order prioritization, routing, and assignment. Great for order fulfillment and reducing shipping times.
+
 **- Resource Allocation:**   The software optimizes the allocation of machinery, manpower, and resources.
+
 **- Inventory Management:** FedBot keeps a real-time track of inventory levels, suggesting reorder points and minimizing overstocking or stockouts.
+
 **- Maintenance Scheduling:** It schedules and tracks equipment maintenance, reducing unexpected downtime.
+
 **- Data Analytics:** FedBot offers detailed data analytics and reporting tools, providing insights into trends and opportunities for further improvement.
