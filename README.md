@@ -15,3 +15,7 @@ _Factory Efficiency Driver Bot_, or FedBot, is a project dedicated to streamlini
 **- Maintenance Scheduling:** It schedules and tracks equipment maintenance, reducing unexpected downtime.
 
 **- Data Analytics:** FedBot offers detailed data analytics and reporting tools, providing insights into trends and opportunities for further improvement.
+
+**License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
