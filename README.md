@@ -19,3 +19,5 @@ _Factory Efficiency Driver Bot_, or FedBot, is a project dedicated to streamlini
 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+contact for details
